@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "dataanalysisandml"
+version = "0.1.0"
+description = ""
+authors = ["Vasja1142 <122717158+Vasja1142@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.3"
+numpy = "^2.1.2"
+scipy = "^1.14.1"
+scikit-learn = "^1.5.2"
+matplotlib = "^3.9.2"
+seaborn = "^0.13.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
