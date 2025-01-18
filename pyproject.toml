@@ -21,8 +21,6 @@ torch = "^2.5.1"
 torchvision = "^0.20.1"
 torchaudio = "^2.5.1"
 
-
-
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
 
